@@ -1,8 +1,8 @@
-# Projekt 3
-
+# Projekt 3 Ochrana zdravotnických zařízení proti útokům od pacientů  
 
 ## Zadání
 
+Pacienti hospitalizovaní ve zdravotnickém zařízení dnes očekávají možnost přístupu k Internetu (práce, kontakt s rodinou ).. Běžně používají zařízení různého typu (telefon, NTB…). Při nedodržení jasné bezpečnostní politiky hrozí nebezpečí, že se pacient dostane do vnitřního IS dané nemocnice. Student zanalyzuje teoreticky stav v menší nemocnici a navrhne jasná pravidla pro zabezpečení. Např. oddělení  jednotlivých IS, nemožnost odposlechnout data, fyzická bezpečnost (pacient není sám ponechán v ordinaci s otevřeným počítačem personálu atd.). Student tato nebezpečí shrne a navrhne základní ochranu proti nim.
 
 
 ## Úkoly:
@@ -16,6 +16,10 @@
 
 ## Seznam odborné literatury:
 
+1. <https://www.epravo.cz/top/clanky/kyberneticka-bezpecnost-ve-zdravotnictvi-112849.html>
+2. <https://osveta.nukib.cz/mod/page/view.php?id=2385>
+3. <https://pubmed.ncbi.nlm.nih.gov/35062504/>
+4. <https://pubmed.ncbi.nlm.nih.gov/33023808/>
 
 
 
