@@ -7,10 +7,10 @@ Pacienti hospitalizovaní ve zdravotnickém zařízení dnes očekávají možno
 
 ## Úkoly:
 
-- [ ] Najít všechny cesty útoku v nemocnici  
-- [ ] Zanalyzovat nemocniční síť
-- [ ] Navhrnout bezpečnostní opatření
-- [ ] Přijít s kompletní bezpečnostní politikou
+- [X] Najít všechny cesty útoku v nemocnici  
+- [X] Zanalyzovat nemocniční síť
+- [X] Navhrnout bezpečnostní opatření
+- [X] Přijít s kompletní bezpečnostní politikou
 
 ## Obsah projektu:
 
