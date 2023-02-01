@@ -14,8 +14,8 @@ Pacienti hospitalizovaní ve zdravotnickém zařízení dnes očekávají možno
 
 ## Obsah projektu:
 
-- [Prezentace přednesena ]()
-- [Písemná práce odevzdána do ]()
+- [Prezentace přednesena 5.1.2023](prezen.pptx)
+- [Písemná práce odevzdána do 13.2.2023](projekt3_Kochanek.docx)
 
 ## Seznam odborné literatury:
 
